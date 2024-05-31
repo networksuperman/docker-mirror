@@ -21,3 +21,8 @@ Since Docker is a US company, we must comply with US export control regulations.
 можете использовать файл docker-mirror.sh 
 ______________
 Как использовать думаю всем понятно, но на всякий случай
+
+- git clone https://github.com/networksuperman/docker-mirror.git
+- cd docker-mirror
+- sudo bash docker-mirror.sh
+- sudo docker run hello-world
