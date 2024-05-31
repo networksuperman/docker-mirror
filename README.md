@@ -11,7 +11,7 @@ Since Docker is a US company, we must comply with US export control regulations.
 you can use file docker-mirror.sh 
 
 Зеркала для Docker
-
+______________
 Если вы видите, что-то по типу
 
 ```
