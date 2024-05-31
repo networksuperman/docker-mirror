@@ -16,6 +16,7 @@ ______________
 - git clone https://github.com/networksuperman/docker-mirror.git
 - cd docker-mirror
 - sudo bash docker-mirror.sh
+- sudo systemctl restart docker
 - sudo docker run hello-world
 ______________
 - https://dockerhub.timeweb.cloud - зеркало Timeweb Cloud
