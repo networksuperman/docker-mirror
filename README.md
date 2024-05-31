@@ -1,4 +1,4 @@
-![](https://asperti.com/2019/docker-proxy/docker-mirror_hubd455014c85183ff24ec394554f2ef72_19941_2c6d91dad0ef9962a143890ce79bab34.webp)
+![](https://asperti.com/2019/docker-proxy/docker-mirror_hubd455014c85183ff24ec394554f2ef72_19941_2c6d91dad0ef9962a143890ce79bab34.webp =250x250)
 
 # docker-mirror
 ______________
