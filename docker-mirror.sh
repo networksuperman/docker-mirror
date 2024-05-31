@@ -10,5 +10,3 @@ cat > /etc/docker/daemon.json <<EOF
 ]
 }
 EOF
-
-sudo systemctl restart docker
