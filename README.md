@@ -1,3 +1,5 @@
+![](https://firecode.ru/storage/img/164/chto-takoe-docker-i-kak-on-rabotaet-detail.jpg)
+
 # docker-mirror
 Mirrors for Docker
 
