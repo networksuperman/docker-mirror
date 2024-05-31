@@ -18,5 +18,7 @@ ______________
 - sudo bash docker-mirror.sh
 - sudo docker run hello-world
 ______________
-
+- "https://dockerhub.timeweb.cloud" - зеркало Timeweb Cloud
+- https://dockerhub1.beget.com - зеркало Бегет
+- https://mirror.gcr.io - зеркало Google
 
