@@ -1,4 +1,4 @@
-![](https://firecode.ru/storage/img/164/chto-takoe-docker-i-kak-on-rabotaet-detail.jpg)
+![](https://asperti.com/2019/docker-proxy/docker-mirror_hubd455014c85183ff24ec394554f2ef72_19941_2c6d91dad0ef9962a143890ce79bab34.webp)
 
 # docker-mirror
 Mirrors for Docker
